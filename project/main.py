@@ -1,1 +1,1 @@
-printf("this is the start of our project")
+print("this is the start of our project")
